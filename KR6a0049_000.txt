@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 求欲經
+#+DATE: 2015-08-30 19:29:43.880103
+#+PROPERTY: JUAN 0
